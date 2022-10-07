@@ -1,4 +1,4 @@
-# DisFunc
+# DisFunc PoC
 
 ## About
 Just like before, this project is another DiscordRAT. This time however it is more compact and small while still packing the same amount of userability. DisFunc will
